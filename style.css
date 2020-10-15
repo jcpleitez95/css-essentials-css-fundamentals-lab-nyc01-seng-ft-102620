@@ -29,7 +29,10 @@ figcaption {
   text-align: center;
 }
 
-p
+p#featured_properties{
+  width: 800px;
+  text-align: center;
+}
 
 #details {
   
