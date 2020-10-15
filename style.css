@@ -30,6 +30,7 @@ figcaption {
 }
 
 #featured_properties p{
+  display: block;
   width: 800px;
   margin-right: auto;
   margin-left: auto;
