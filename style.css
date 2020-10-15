@@ -29,9 +29,9 @@ figcaption {
   text-align: center;
 }
 
-#featured_properties p{
+#featured_properties{
   display: block;
-  width: 70%;
+  width: 800px;
   margin-right: auto;
   margin-left: auto;
 }
